@@ -8,7 +8,7 @@ Database: MongoDB.<br>
 Frontend: Bootstrap, Ejs.
 
 ## ENV
- Before running the app, you should create your own `.env` file in the root with the following variables:
+ Before running the app, you should create your own `.env` file in the root with the following variable:
 MONGO_URL=<path to mongoDB>
 
 ### Running
