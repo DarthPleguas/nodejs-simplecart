@@ -3,7 +3,7 @@
 > A ShoppingCart webapp build using NodeJs, Express, MongoDB.
 
 # Tools and Technologies
-Backend: NodeJs, ExpressJS.<br>
+Backend: NodeJs, ExpressJs.<br>
 Database: MongoDB.<br>
 Frontend: Bootstrap, Ejs.
 
