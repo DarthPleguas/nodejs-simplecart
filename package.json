@@ -21,10 +21,5 @@
   },
   "engines": {
     "node": "^13.14.0"
-  },
-  "devDependencies": {
-    "jest": "^24.9.0",
-    "nodemon": "^2.0.2",
-    "request": "^2.88.0"
   }
 }
